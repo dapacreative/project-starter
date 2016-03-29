@@ -1,1 +1,2 @@
-# project-starter
+Banyan Project Template
+Author: Banyan Communications

@@ -1,0 +1,25 @@
+{
+  "name": "Sites",
+  "version": "1.0.0",
+  "description": "Banyan Project Template",
+  "author": "Banyan Communications",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-size": "^2.0.0",
+    "gulp-svg-sprite": "^1.2.19",
+    "gulp-svg2png": "^1.0.0",
+    "gulp-svgmin": "^1.2.1",
+    "gulp-uglify": "^1.5.1",
+    "jshint": "^2.9.1"
+  }
+}
