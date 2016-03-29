@@ -1,2 +1,2 @@
-Banyan Project Template
-Author: Banyan Communications
+Starter Template
+Author: Dan Smith
