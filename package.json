@@ -1,8 +1,8 @@
 {
-  "name": "Sites",
+  "name": "Project Boilerplate",
   "version": "1.0.0",
-  "description": "Banyan Project Template",
-  "author": "Banyan Communications",
+  "description": "Project Starter Template",
+  "author": "Dan Smith",
   "license": "ISC",
   "babel": {
     "presets": ["es2015"]
